@@ -1,1 +1,62 @@
-.
+[
+  {
+    "text": {
+      "en": "X6",
+      "zh": "X6宝马会",
+      "ja": "X6クラブ",
+      "ko": "X6 클럽",
+      "de": "X6 Club",
+      "ru": "X6 Клуб",
+      "ar": "نادي X6",
+      "es": "Club X6",
+      "fr": "Club X6",
+      "pt": "Clube X6"
+    },
+    "href": "https://005x6.com/?id=658131037"
+  },
+  {
+    "text": {
+      "en": "Corp",
+      "zh": "集团",
+      "ja": "コープ",
+      "ko": "코퍼레이션",
+      "de": "Konzern",
+      "ru": "Корпорация",
+      "ar": "الشركة",
+      "es": "Corporación",
+      "fr": "Groupe",
+      "pt": "Corporação"
+    },
+    "href": "https://t.me/currencycorp"
+  },
+  {
+    "text": {
+      "en": "giveaway",
+      "zh": "福利活动",
+      "ja": "プレゼントイベント",
+      "ko": "경품 이벤트",
+      "de": "Gewinnspiel",
+      "ru": "Розыгрыш",
+      "ar": "فعالية الهدايا",
+      "es": "Sorteo",
+      "fr": "Jeu‑concours",
+      "pt": "Sorteio"
+    },
+    "href": "https://t.me/supermoneyu"
+  },
+  {
+    "text": {
+      "en": "🛡️Support🛡️",
+      "zh": "🛡️客服支持🛡️",
+      "ja": "🛡️サポート🛡️",
+      "ko": "🛡️고객 지원🛡️",
+      "de": "🛡️Support🛡️",
+      "ru": "🛡️Поддержка🛡️",
+      "ar": "🛡️الدعم الفني🛡️",
+      "es": "🛡️Soporte🛡️",
+      "fr": "🛡️Assistance🛡️",
+      "pt": "🛡️Suporte🛡️"
+    },
+    "href": "https://t.me/corp_supportbot"
+  }
+]
