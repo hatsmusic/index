@@ -1,1 +1,81 @@
-(
+{
+  "menuOrder": ["channel", "casino", "adults", "ads", "chat", "exchange", "boost", "music", "store", "ucard", "Telegram" ],
+  "catIcons": {
+    "channel": "💸",
+    "casino": "🎰",
+    "adults": "🔞",
+    "chat": "💬",
+    "exchange": "💱",
+    "store": "🛒",
+    "ucard":"💳",
+    "Telegram": "✈️"
+  },
+  "menu": {
+    "channel": [
+      { "icon": "📋", "key": "userlist", "href": "https://t.me/defiuser" },
+      { "icon": "💶", "key": "corp", "href": "https://t.me/currencycorp" },
+      { "icon": "❤️", "key": "event", "href": "https://t.me/supermoneyu" },
+      { "icon": "🧳", "key": "club", "href": "https://t.me/currencyclub" },
+      { "icon": "🎵", "key": "music", "href": "https://t.me/hatsmusic" }
+    ],
+    "casino": [
+      { "icon": "🌍", "key": "club", "href": "https://t.me/casinocl" },
+      { "icon": "🤖", "key": "stake", "href": "https://t.me/sstake_bot" },
+      { "icon": "🌈", "key": "rain", "href": "https://t.me/rainbetlbot" },
+      { "icon": "7️⃣", "key": "seven", "href": "https://7.bet/home?uid=84005357947&ts=1785761885" },
+      { "icon": "❎", "key": "x6", "href": "https://005x6.com/?id=658131037" },
+      { "icon": "🎮", "key": "interstellar", "href": "https://wzxjxj1280.net:9900/?aff=100024796", "zhOnly": true },
+      { "icon": "👑", "key": "crown", "href": "https://tg.6i.com/?id=769404398", "zhOnly": true },
+      { "icon": "🚗", "key": "bmw", "href": "https://005x6.com/?id=658131037", "zhOnly": true }
+    ],
+    "adults": [
+      { "icon": "🤖", "key": "abot", "href": "https://t.me/luciddreams?start=_tgr_4WD9kHw1MGZl" },
+      { "icon": "🔞", "key": "paid", "href": "https://t.me/txtv0" }
+    ],
+    "chat": [
+      { "icon": "💱", "key": "otc", "href": "https://t.me/fiscalt" },
+      { "icon": "💬", "key": "tipchat", "href": "https://t.me/govlchat" },
+      { "icon": "🧧", "key": "dailyRed", "href": "https://t.me/qqqbot?start=srJI9JDcAWA0NGVl_i", "zhOnly": true },
+      { "icon": "🤖", "key": "chatgpt", "href": "https://t.me/chatgpt?start=invite_8581174816" },
+      { "icon": "🌍", "key": "chats", "href": "https://t.me/corpchats" }
+    ],
+    "exchange": [
+      { "icon": "🟠", "key": "okx", "href": "https://www.topqwxrvknf.com/join/89267669" },
+      { "icon": "🟡", "key": "binance", "href": "https://www.bsmkweb.cc/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_4KYFD" }
+    ],
+    "store": [
+      { "icon": "✈️", "key": "account", "href": "https://vivivi.llc3.top" },
+      { "icon": "🪜", "key": "network", "href": "https://xn--mes995ajya725k.com/#/register?code=ai87MYGQ", "zhOnly": true },
+      { "icon": "🚩", "key": "transit", "href": "https://xn--4gq62f52gdss.top/#/register?code=a80ciKqs", "zhOnly": true },
+      { "icon": "🔢", "key": "usernameRent", "href": "https://t.me/i888/?start=p_ImJ60Bdy", "zhOnly": true },
+      { "icon": "✈️", "key": "telegram", "href": "https://t.me/feibot?start=yq_8581174816", "zhOnly": true },
+      { "icon": "🏬", "key": "AccountStore", "href": "https://xbch158.com/join/240" },
+      { "icon": "🖥️", "key": "vps", "href": "https://www.9wyun.com/recommend/2lfXHitWsXOJ" },
+      { "icon": "🛡️", "key": "nokyc", "href": "https://billing.spartanhost.net/aff.php?aff=2864" },
+      { "icon": "💻", "key": "noww", "href": "https://www.noww.cc/#/register?code=0L3klVRQ", "zhOnly": true}
+    ],
+    "ucard":[
+      {"icon": "💳", "key": "savo", "href": "https://sv.me/r/HWWPL" }
+    ],
+    "Telegram":[
+      { "icon": "🔍", "key": "check", "href": "https://t.me/UserRate_bot?start=_tgr_cMwSKM1hZjll" }
+    ]
+  },
+  "coins": [
+    { "id": "bitcoin", "symbol": "BTC", "binance": "BTCUSDT" },
+    { "id": "ethereum", "symbol": "ETH", "binance": "ETHUSDT" },
+    { "id": "solana", "symbol": "SOL", "binance": "SOLUSDT" },
+    { "id": "binancecoin", "symbol": "BNB", "binance": "BNBUSDT" },
+    { "id": "ripple", "symbol": "XRP", "binance": "XRPUSDT" },
+    { "id": "dogecoin", "symbol": "DOGE", "binance": "DOGEUSDT" },
+    { "id": "cardano", "symbol": "ADA", "binance": "ADAUSDT" },
+    { "id": "tron", "symbol": "TRX", "binance": "TRXUSDT" },
+    { "id": "toncoin", "symbol": "TON", "binance": "TONUSDT" },
+    { "id": "avalanche-2", "symbol": "AVAX", "binance": "AVAXUSDT" },
+    { "id": "polkadot", "symbol": "DOT", "binance": "DOTUSDT" },
+    { "id": "chainlink", "symbol": "LINK", "binance": "LINKUSDT" },
+    { "id": "shiba-inu", "symbol": "SHIB", "binance": "SHIBUSDT" },
+    { "id": "pepe", "symbol": "PEPE", "binance": "PEPEUSDT" },
+    { "id": "monero", "symbol": "XMR", "binance": "XMRUSDT" }
+  ]
+}
