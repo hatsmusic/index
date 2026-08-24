@@ -58,7 +58,8 @@
       {"icon": "💳", "key": "savo", "href": "https://sv.me/r/HWWPL" }
     ],
     "Telegram":[
-      { "icon": "🔍", "key": "check", "href": "https://t.me/UserRate_bot?start=_tgr_cMwSKM1hZjll" }
+      { "icon": "🔍", "key": "check", "href": "https://t.me/UserRate_bot?start=_tgr_cMwSKM1hZjll" },
+      { "icon": "🖥️", "key": "mtproxy", "href": "https://buy.mtproto.io/register.html?ref=FISCAA8D88" }
     ]
   },
   "coins": [
