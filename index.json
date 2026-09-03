@@ -69,7 +69,8 @@
       { "icon": "🤖", "key": "api", "href": "https://cheaperinference.com/?ref=1HfK-AfsNJ" }
       ],
     "VPN":[
-      { "icon": "🪜", "key": "jia", "href": "https://www.smartproxy.ai/register/?invitation_code=U9EGBZ" }
+      { "icon": "🪜", "key": "jia", "href": "https://www.smartproxy.ai/register/?invitation_code=U9EGBZ" },
+      { "icon": "💰", "key": "xin", "href": "https://m.novproxy.com/invite/nfhhbohmd", "zhOnly":true }
       ]
   },
   "coins": [
