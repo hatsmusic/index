@@ -1,5 +1,5 @@
 {
-  "menuOrder": ["channel", "casino", "adults", "chat", "exchange", "music", "store", "ucard", "Telegram", "ai" ],
+  "menuOrder": ["channel", "casino", "adults", "chat", "exchange",  "store", "ucard", "Telegram", "ai" ,"VPN" ],
   "catIcons": {
     "channel": "💸",
     "casino": "🎰",
@@ -8,7 +8,8 @@
     "exchange": "💱",
     "store": "🛒",
     "ucard":"💳",
-    "Telegram": "✈️"
+    "Telegram": "✈️",
+    "VPN": "🪜"
   },
   "menu": {
     "channel": [
@@ -45,9 +46,6 @@
       { "icon": "👝", "key": "wallet", "href": "https://onekey.so/r/9ONWJL" }
     ],
     "store": [
-    { "icon": "☁️", "key": "account", "href": "https://xinstore.org/invite.html?u=1185" },
-    { "icon": "🪜", "key": "network", "href": "https://xn--mes995ajya725k.com/#/register?code=9PDMGTC9" },
-    { "icon": "🚩", "key": "transit", "href": "https://xn--4gq62f52gdss.top/#/register?code=a80ciKqs" },
     { "icon": "🔢", "key": "usernameRent", "href": "https://t.me/i888/?start=p_ImJ60Bdy" },
     { "icon": "✈️", "key": "telegram", "href": "https://t.me/feibot?start=yq_8581174816" },
     { "icon": "🏬", "key": "AccountStore", "href": "https://xbch158.com/join/240" },
@@ -66,7 +64,14 @@
     ],
     "ai":[
       { "icon": "🤖", "key": "api", "href": "https://cheaperinference.com/?ref=1HfK-AfsNJ" }
+      ],
+    "VPN":[
+      { "icon": "🪜", "key": "jia", "href": "https://www.smartproxy.ai/register/?invitation_code=U9EGBZ" },
+      { "icon": "☁️", "key": "account", "href": "https://xinstore.org/invite.html?u=1185" },
+      { "icon": "🪜", "key": "network", "href": "https://xn--mes995ajya725k.com/#/register?code=9PDMGTC9" },
+      { "icon": "🚩", "key": "transit", "href": "https://xn--4gq62f52gdss.top/#/register?code=a80ciKqs" }
       ]
+      },
   },
   "coins": [
     { "id": "bitcoin", "symbol": "BTC", "binance": "BTCUSDT" },
