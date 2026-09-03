@@ -46,6 +46,9 @@
       { "icon": "👝", "key": "wallet", "href": "https://onekey.so/r/9ONWJL" }
     ],
     "store": [
+    { "icon": "☁️", "key": "account", "href": "https://xinstore.org/invite.html?u=1185" },
+    { "icon": "🪜", "key": "network", "href": "https://xn--mes995ajya725k.com/#/register?code=9PDMGTC9" },
+    { "icon": "🚩", "key": "transit", "href": "https://xn--4gq62f52gdss.top/#/register?code=a80ciKqs" },
     { "icon": "🔢", "key": "usernameRent", "href": "https://t.me/i888/?start=p_ImJ60Bdy" },
     { "icon": "✈️", "key": "telegram", "href": "https://t.me/feibot?start=yq_8581174816" },
     { "icon": "🏬", "key": "AccountStore", "href": "https://xbch158.com/join/240" },
@@ -66,10 +69,7 @@
       { "icon": "🤖", "key": "api", "href": "https://cheaperinference.com/?ref=1HfK-AfsNJ" }
       ],
     "VPN":[
-      { "icon": "🪜", "key": "jia", "href": "https://www.smartproxy.ai/register/?invitation_code=U9EGBZ" },
-      { "icon": "☁️", "key": "account", "href": "https://xinstore.org/invite.html?u=1185" },
-      { "icon": "🪜", "key": "network", "href": "https://xn--mes995ajya725k.com/#/register?code=9PDMGTC9" },
-      { "icon": "🚩", "key": "transit", "href": "https://xn--4gq62f52gdss.top/#/register?code=a80ciKqs" }
+      { "icon": "🪜", "key": "jia", "href": "https://www.smartproxy.ai/register/?invitation_code=U9EGBZ" }
       ]
   },
   "coins": [
