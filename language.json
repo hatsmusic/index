@@ -56,7 +56,7 @@
       "noww": "家宽机场",
       "ucard": "USDT 卡",
       "savo": "SAVO",
-      "mtproxy": "MTproto 代理", "wallet": "加密货币钱包", "lxy": "良心云VPN"
+      "mtproxy": "MTproto 代理", "wallet": "加密货币钱包", "lxy": "良心云VPN", "jia": "企业级静态家庭IP"
     }
   },
   "en": {
@@ -116,7 +116,7 @@
       "noww": "Noww",
       "ucard": "USDT Card",
       "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "home IP"
     }
   },
   "de": {
@@ -176,7 +176,7 @@
       "noww": "VPN",
       "ucard": "USDT Card",
       "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "Haushalts-IP"
     }
   },
   "fr": {
@@ -236,7 +236,7 @@
       "noww": "noww",
       "ucard": "USDT Card",
       "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "IP familial"
     }
   },
   "ru": {
@@ -296,7 +296,7 @@
       "noww": "noww",
       "ucard": "Карта USDT",
       "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "ДомашнийIP"
     }
   },
   "ar": {
@@ -356,7 +356,7 @@
       "noww": "الآن",
       "ucard": "بطاقة USDT",
       "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "عنوان IP الخاص بالمنزل"
     }
   },
   "es": {
@@ -415,8 +415,8 @@
       "chats": "Comercio",
       "noww": "Noww",
       "ucard": "USDT Card",
-      "savo": "SAOV",
-      "mtproxy": "MTproto"
+      "savo": "SAOV"
+      "mtproxy": "MTproto", "jia": "IP familiar"
     }
   },
   "ja": {
@@ -476,7 +476,7 @@
       "noww": "今すぐ",
       "ucard": "USDT Card",
       "savo":  "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "家庭IP"
     }
   },
   "ko": {
@@ -536,7 +536,7 @@
       "noww": "Noww",
       "ucard":  "USDT Card",
       "savo":  "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "家庭IP"
     }
   },
   "pt": {
@@ -596,7 +596,7 @@
       "noww": "Noww",
       "ucard":  "USDT Card",
       "savo":  "SAOV",
-      "mtproxy": "MTproto"
+      "mtproxy": "MTproto", "jia": "IP familiar"
     }
   }
 }
